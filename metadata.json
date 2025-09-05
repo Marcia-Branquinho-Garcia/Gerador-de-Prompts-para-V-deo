@@ -1,0 +1,5 @@
+{
+  "name": "Gerador de Prompts para Vídeo AI",
+  "description": "Uma ferramenta para gerar prompts de vídeo detalhados em português, inglês e formato JSON usando a API Gemini, a partir de um tema simples.",
+  "requestFramePermissions": []
+}
